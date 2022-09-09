@@ -18,7 +18,7 @@ body {
 
 /* ----- ----- HEADER ----- ----- */
 header {
-  background: url("../img/header.jpg"), #49A3D6;
+  background: url("../img/header.jpg"), #dd820d;
   background-repeat: no-repeat;
   background-position: center;
   max-height: 600px; }
@@ -84,7 +84,7 @@ header {
       color: #dd820d;
       text-align: center; }
     .main .acerca-de .texto .bold {
-      color: #3895ea;
+      color: #dd820d;
       text-decoration: underline; }
 .main .trabajos {
   background: #f2f2f2;
@@ -117,7 +117,7 @@ header {
         text-align: center; }
         .main .trabajos .contenedor-trabajos .trabajo .descripcion .nombre {
           font-weight: 700;
-          color: #3895ea;
+          color: #dd820d;
           margin-bottom: 10px; }
         .main .trabajos .contenedor-trabajos .trabajo .descripcion .categoria {
           font-size: 14px;
@@ -181,7 +181,7 @@ footer .redes-sociales {
       margin: 0 20px;
       border-radius: 3px; }
     footer .redes-sociales .contenedor .twitter:hover {
-      background: #55acee; }
+      background: #dd820d; }
     footer .redes-sociales .contenedor .facebook:hover {
       background: #3b5998; }
     footer .redes-sociales .contenedor .youtube:hover {
